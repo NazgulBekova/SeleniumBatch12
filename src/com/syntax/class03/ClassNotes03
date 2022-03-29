@@ -20,7 +20,7 @@ Relative Xpath --> starts from any node in the html
 
 Syntax for relative xpath:
 //tagname[@attribute = 'attribute value']
-
+n
 Example: //input[@id = 'email']
 
 Identifying elements by its text:

@@ -30,9 +30,5 @@ public class HWAmazon {
                 System.out.println(linkText + "    " + fullLink);
             }
         }
-
-
-
-
     }
 }
